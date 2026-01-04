@@ -1,4 +1,5 @@
 # Web Development Project — HTML, CSS and JavaScript
+> [Clique aqui para visualizar o site online](https://jpedrwx.github.io/Web-Development-Project-HTML-CSS-and-JavaScript/)
 
 ## About the Project
 This repository contains the practical project developed during the self-paced course **"Create a Simple Website Using HTML, CSS and JavaScript"**, offered by **Fundação Bradesco’s Escola Virtual** in partnership with **Microsoft**.
