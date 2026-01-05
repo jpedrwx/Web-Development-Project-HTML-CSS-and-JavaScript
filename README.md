@@ -4,7 +4,7 @@
 
 ---
 
-## 🇺🇸 English
+## English
 
 ### About the Project
 This repository contains the practical project developed during the self-paced course **"Create a Simple Website Using HTML, CSS and JavaScript"**, offered by **Fundação Bradesco’s Escola Virtual** in partnership with **Microsoft**.
@@ -25,7 +25,7 @@ The purpose of this project is to apply basic web development concepts using **H
 
 ---
 
-## 🇧🇷 Português
+## Português
 
 ### Sobre o Projeto
 Este repositório contém o projeto prático desenvolvido durante o curso autoinstrucional **"Crie um site simples usando HTML, CSS e JavaScript"**, oferecido pela **Escola Virtual da Fundação Bradesco**, em parceria com a **Microsoft**.
@@ -46,7 +46,7 @@ O objetivo do projeto é aplicar conceitos básicos de desenvolvimento web utili
 
 ---
 
-## 🇪🇸 Español
+## Español
 
 ### Sobre el Proyecto
 Este repositorio contiene el proyecto práctico desarrollado durante el curso autodidacta **"Crear un sitio web simple usando HTML, CSS y JavaScript"**, ofrecido por la **Escuela Virtual de la Fundação Bradesco**, en colaboración con **Microsoft**.
