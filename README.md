@@ -1,6 +1,6 @@
 # Web Development Project — HTML, CSS and JavaScript
 
-Live site: [Click here to view the website](https://your-site-link-here)
+Live site: [Click here to view the website](https://jpedrwx.github.io/Web-Development-Project-HTML-CSS-and-JavaScript/)
 
 ---
 
